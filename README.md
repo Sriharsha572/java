@@ -1,2 +1,2 @@
 # java
-ist project
+1st project
